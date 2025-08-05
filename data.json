@@ -1,0 +1,177 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Lyuks",
+      "quality": "➕ Xona qo‘shish",
+      "price": "500000",
+      "desc": "Добро пожаловать в наш уютный люкс! Здесь у вас есть комфортабельная кровать для двоих, а также возможность установить дополнительную кровать . В номере вас ждёт телевизор и кондиционер, а площадь составляет 30 квадратных метров, что обеспечивает достаточно пространства для комфортного отдыха.",
+      "img": "AgACAgIAAxkBAAIJ52iHJEOmvD9MEEFPvQWt4Za8tUBcAAKa9DEbQ8JASHhFn1_nf77NAQADAgADeAADNgQ",
+      "capacity": 4
+    },
+    {
+      "id": 2,
+      "name": "Lyuks",
+      "quality": "➕ Xona qo‘shish",
+      "price": "500000",
+      "desc": "Добро пожаловать в наш уютный люкс! Здесь у вас есть комфортабельная кровать для двоих, а также возможность установить дополнительную кровать . В номере вас ждёт телевизор и кондиционер, а площадь составляет 30 квадратных метров, что обеспечивает достаточно пространства для комфортного отдыха.",
+      "img": "AgACAgIAAxkBAAIJ52iHJEOmvD9MEEFPvQWt4Za8tUBcAAKa9DEbQ8JASHhFn1_nf77NAQADAgADeAADNgQ",
+      "capacity": 4
+    },
+    {
+      "id": 3,
+      "name": "Asl",
+      "quality": "Lyuks",
+      "price": "822222",
+      "desc": "asc",
+      "img": "AgACAgIAAxkBAAIMWWiHQnLuLuOzJlZeft023c5WaBa7AAL9-DEbBY05SAmzug8QdzorAQADAgADeQADNgQ",
+      "capacity": 5
+    },
+    {
+      "id": 4,
+      "name": "adihahssa",
+      "quality": "➕ Xona qo‘shish",
+      "price": "777777",
+      "desc": "dsvvvsd",
+      "img": "AgACAgIAAxkBAAISnGiR1e26Pwq62F815wfKdQrzTE-4AAJZ8DEbMveQSPpFKhGKja3cAQADAgADeQADNgQ",
+      "capacity": 7
+    },
+    {
+      "id": 5,
+      "name": "mkfd",
+      "quality": "➕ Xona qo‘shish",
+      "price": "77777777",
+      "desc": "sd",
+      "img": "AgACAgIAAxkBAAISnGiR1e26Pwq62F815wfKdQrzTE-4AAJZ8DEbMveQSPpFKhGKja3cAQADAgADeQADNgQ",
+      "capacity": 7
+    },
+    {
+      "id": 6,
+      "name": "hxasx",
+      "quality": "➕ Xona qo‘shish",
+      "price": "77777",
+      "desc": "k",
+      "imgs": [
+        "AgACAgIAAxkBAAISnGiR1e26Pwq62F815wfKdQrzTE-4AAJZ8DEbMveQSPpFKhGKja3cAQADAgADeQADNgQ",
+        "AgACAgIAAxkBAAISnGiR1e26Pwq62F815wfKdQrzTE-4AAJZ8DEbMveQSPpFKhGKja3cAQADAgADeQADNgQ"
+      ],
+      "capacity": 7
+    }
+  ],
+  "about": {
+    "uz": "O'zbekistonga xush kelibsiz! Biz sizga unutilmas bayram va xotirangizda uzoq vaqt saqlanib qoladigan noyob tajribalarni taklif qilishdan mamnunmiz. Keling, sizga shaharning barcha go'zalligini ko'rsataylik va sizning turar joyingizni chinakamiga o'zgacha qilaylik",
+    "ru": "Добро пожаловать в Узбекистан! Мы рады предлож вам незабываемый отдых и уникальные впечатления, которые останутся в вашей памяти надолго. Позвольте нам показать вам все красоты города и сделать ваше пребывание по-настоящему особенным"
+  },
+  "location": "41.355808,69.288599",
+  "restaurant": "98 307 67 77",
+  "bookings": [
+    {
+      "user_id": 1671888527,
+      "username": "Erk1novich_A",
+      "room_id": 1,
+      "quality": "Polux",
+      "phone": "+998971673110",
+      "name": "Aslan",
+      "people": 4,
+      "from": "2025-02-01",
+      "to": "2025-02-07"
+    },
+    {
+      "user_id": 1671888527,
+      "username": "Erk1novich_A",
+      "room_id": 1,
+      "quality": "Polux",
+      "phone": "+998971673110",
+      "name": "Aslan",
+      "people": 7,
+      "from": "2025-01-01",
+      "to": "2025-01-07"
+    },
+    {
+      "user_id": 1671888527,
+      "username": "Erk1novich_A",
+      "room_id": 1,
+      "quality": "Polux",
+      "phone": "+998971673110",
+      "name": "Aslan",
+      "people": 7,
+      "from": "2025-04-01",
+      "to": "2025-04-07"
+    },
+    {
+      "user_id": 1671888527,
+      "username": "Erk1novich_A",
+      "room_id": 1,
+      "quality": "Polux",
+      "phone": "+998971673110",
+      "name": "aslan",
+      "people": 7,
+      "from": "2025-01-08",
+      "to": "2025-01-14"
+    },
+    {
+      "user_id": 1671888527,
+      "username": "Erk1novich_A",
+      "room_id": 1,
+      "quality": "Polux",
+      "phone": "+998971673110",
+      "name": "aslan",
+      "people": 7,
+      "from": "2025-07-16",
+      "to": "2025-07-26"
+    },
+    {
+      "user_id": 1671888527,
+      "username": "Erk1novich_A",
+      "room_id": 1,
+      "quality": "Polux",
+      "phone": "+998971673110",
+      "name": "Aslan",
+      "people": 7,
+      "from": "2025-01-15",
+      "to": "2025-01-21"
+    },
+    {
+      "user_id": 1671888527,
+      "username": "Erk1novich_A",
+      "room_id": 1,
+      "quality": "Polux",
+      "phone": "+998971673110",
+      "name": "Aasakn",
+      "people": 7,
+      "from": "2025-01-22",
+      "to": "2025-01-28"
+    },
+    {
+      "user_id": 1143475155,
+      "username": "kelsinboev077",
+      "room_id": 1,
+      "quality": "Polux",
+      "phone": "998978006686",
+      "name": "ana",
+      "people": 4,
+      "from": "2025-04-16",
+      "to": "2025-04-18"
+    },
+    {
+      "user_id": 1143475155,
+      "username": "kelsinboev077",
+      "room_id": 2,
+      "quality": "Polux",
+      "phone": "998978006686",
+      "name": "sd",
+      "people": 4,
+      "from": "2025-01-15",
+      "to": "2025-01-17"
+    }
+  ],
+  "lang": {
+    "1671888527": "uz",
+    "1143475155": "uz"
+  },
+  "qualities": [
+    "➕ Xona qo‘shish",
+    "Lyuks"
+  ],
+  "restaurant_owner": "Obid"
+}

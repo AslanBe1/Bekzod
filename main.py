@@ -11,7 +11,7 @@ import re
 import random
 
 ADMIN_ID = 1143475155  # Admin user_id
-TOKEN = '8025141379:AAFqQQYicKKn7tt3d1Loj2AoiTnE94jESvI'
+TOKEN = '8025141379:AAFPAqgbeyuvfWu_fULlCbBTEKGrDT3LFxM'
 
 def load_data():
     try:

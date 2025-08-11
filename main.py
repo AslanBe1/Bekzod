@@ -881,7 +881,7 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 'Bron qabul qilindi!\n\n'
                 f"Xona narxi: <b>{price_per_day}</b> × {days_count} kun = <b>{total_price} So'm</b>\n"
                 'Iltimos, quyidagi karta raqamiga to‘lovni amalga oshiring:\n'
-                '<b>8600 1234 5678 9012</b>\n\n'
+                '<b>8600 0609 9721 4409 Abidov Murodjon</b>\n\n'
                 'To‘lov cheki (screenshot yoki rasm)ni shu yerga yuboring.'
             ),
             parse_mode='HTML'

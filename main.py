@@ -10,7 +10,7 @@ from telegram.constants import ChatAction
 import re
 import random
 
-ADMIN_ID = 1143475155  # Admin user_id
+ADMIN_ID = 5833295481  # Admin user_id
 TOKEN = '8025141379:AAFPAqgbeyuvfWu_fULlCbBTEKGrDT3LFxM'
 
 def load_data():
